@@ -1,0 +1,2 @@
+2026-06-01 12:34:56 [INFO] trading_bot - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-06-01 12:34:58 [INFO] trading_bot - Order response: {'symbol': 'BTCUSDT', 'orderId': 123456789, 'orderListId': -1, 'clientOrderId': 'abc123', 'transactTime': 1654084498219, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'cummulativeQuoteQty': '41.50000000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'avgPrice': '41500.00'}

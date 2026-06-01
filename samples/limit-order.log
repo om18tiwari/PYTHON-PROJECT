@@ -1,0 +1,2 @@
+2026-06-01 12:36:10 [INFO] trading_bot - Placing order: BTCUSDT SELL LIMIT 0.001 65000.0
+2026-06-01 12:36:12 [INFO] trading_bot - Order response: {'symbol': 'BTCUSDT', 'orderId': 987654321, 'orderListId': -1, 'clientOrderId': 'xyz789', 'transactTime': 1654084572844, 'price': '65000.00', 'origQty': '0.00100000', 'executedQty': '0.00000000', 'cummulativeQuoteQty': '0.00000000', 'status': 'NEW', 'timeInForce': 'GTC', 'type': 'LIMIT', 'side': 'SELL', 'avgPrice': '0.00000'}
